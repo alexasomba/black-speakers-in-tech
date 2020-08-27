@@ -49,6 +49,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### Canada
 
+#### Tomiwa Ademidun
+
+- [@tomiwa1a](http://twitter.com/tomiwa1a)
+- Topics - Anuglar, React, Python, Django, Progressive Web Apps, Devops, Entrepreneurship
+- Location - Toronto, Canada
+
 #### Hassan Djirdeh
 
 - [@djirdehh](http://twitter.com/djirdehh)
@@ -67,13 +73,31 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Javascript, React Native, A11y
 - Location - Toronto, Canada
 
+#### Ore Ogundipe
+
+- [@ogundipeore](https://twitter.com/ogundipeore)
+- Topics - Data Intelligence, Using Azure Services for ML, Web Technologies
+- Location - Vancouver, Canada
+
 ### Europe
+
+#### Jemima Abu
+
+- [@jemimaabu](https://twitter.com/jemimaabu)
+- Topics - CSS, JavaScript, Tech careers
+- Location - Lithuania
 
 #### Yannick Assogba
 
 - [@tafsiri](http://twitter.com/tafsiri)
 - Topics - TensorFlow.js, JavaScript
 - Location - Cambridge, England
+
+#### Isabel Costa
+
+- [@isabelcmdcosta](http://twitter.com/isabelcmdcosta)
+- Topics - Open Source
+- Location - Lisbon, Portugal
 
 #### Gavin Dennis
 
@@ -99,6 +123,18 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Ember, JavaScript, Web Components
 - Location - Berlin, Germany
 
+#### Tana Joseph
+
+- [@TanaDJoseph](http://twitter.com/TanaDJoseph)
+- Topics - Big data, STEM careers and education, Diversity and Inclusion in STEM, STEM public engagement and outreach
+- Location - Manchester, UK
+
+#### Chidinma Kalu
+
+- [@chidinmako](http://twitter.com/chidinmako)
+- Topics - Javascript, Typescript, Python, Machine Learning
+- Location - Amsterdam, Netherlands
+
 #### Meya Stephen Kenigbolo
 
 - [@expensivestevie](http://twitter.com/expensivestevie)
@@ -111,11 +147,23 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - JavaScript
 - Location - Berlin, Germany
 
+#### Naya Moss
+
+- [@bossnayamoss](https://twitter.com/bossnayamoss)
+- Topics - Information technology, Information Security, Automation, Startup Culture, Remote Work, Modern HR, Diversity
+- Location - Romania
+
 #### Olu Niyi-Awosusi
 
 - [@oluoluoxenfree](http://twitter.com/oluoluoxenfree)
 - Topics - Git, Github
 - Location - London, England
+
+#### Omosola Odetunde
+
+- [@omosolatweets](https://twitter.com/omosolatweets)
+- Topics - product engineering, new product development, engineering management, tech leadership, machine learning and AI, ethics in AI, career and professional development
+- Location - Europe, USA
 
 #### Tolúlọpẹ́ Ògúnrẹ̀mí
 
@@ -131,9 +179,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 #### Bybreen Samuels
 
-- [@tara_ojo](http://twitter.com/BybreenSamuels)
+- [@bybreensamuels](http://twitter.com/BybreenSamuels)
 - Topics - Career transition for older women into tech, Translating A.I. for the ordinary lay person, Recruitment process
 - Location - London, England
+
+#### Amadou Sall
+
+- [@ahasall](http://twitter.com/ahasall)
+- Topics - Angular
+- Location - Toulouse, France
 
 #### Kene Udeze
 
@@ -147,17 +201,11 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Ionic, Angular, Frontend Development, UI Design, JavaScript
 - Location - London, England
 
-#### Isabel Costa
-
-- [@isabelcmdcosta](http://twitter.com/isabelcmdcosta)
-- Topics - Open Source
-- Location - Lisbon, Portugal
-
 ### Kenya
 
 #### Juma Allan
 
-- [@_ jumaallan](https://twitter.com/_jumaallan)
+- [@\_ jumaallan](https://twitter.com/_jumaallan)
 - Topics - Android, Kotlin, Golang
 - Location - Nairobi, Kenya
 
@@ -179,6 +227,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Android, Kotlin, HTML and CSS, Building Communities
 - Location - Nairobi, Kenya
 
+#### Harun Wangereka
+
+- [@wangerekaharun](https://twitter.com/wangerekaharun)
+- Topics - Android, Kotlin
+- Location - Nairobi, Kenya
+
 ### Niger
 
 #### Daouada Hamadou
@@ -195,16 +249,40 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - PHP, Laravel, Javascript, Open-Source.
 - Location - Lagos, Nigeria
 
+#### David Adeneye
+
+- [@davidadeneye](https://twitter.com/davidadeneye)
+- Topics - Frontend Development, UI Design, System Analysis, JavaScript, Building Communities.
+- Location - Lagos, Nigeria
+
 #### Ire Aderinokun
 
 - [@ireaderinokun](https://twitter.com/ireaderinokun)
 - Topics - Frontend Development, UI Design, JavaScript
 - Location - Lagos, Nigeria
 
+#### Gift Egwuenu
+
+- [@lauragift_](http://twitter.com/lauragift_)
+- Topics - Frontend Development, Jamstack, Career in Tech, Soft Skills
+- Location - Lagos, Nigeria
+
 #### Ademola Adegbuyi
 
-- [@_ooade](https://twitter.com/_ooade)
+- [@\_ooade](https://twitter.com/_ooade)
 - Topics - JavaScript, React, Building Communities
+- Location - Lagos, Nigeria
+
+#### Michael Ajanaku
+
+- [@remiljw](https://twitter.com/remiljw)
+- Topics - Python, Django, Git, GitHub
+- Location - Lagos,Nigeria
+
+#### Samuel Akinosho
+
+- [@SamuelAkins12](https://twitter.com/SamuelAkins12)
+- Topics - Artificial Intelligence & Internet of Things
 - Location - Lagos, Nigeria
 
 #### Shedrack Akintayo
@@ -213,10 +291,22 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Reactjs, Javascript, Open Source
 - Location - Lagos, Nigeria
 
+#### Oluwatoi Akindunjoye
+
+- [@oluwatobimayowa](http://twitter.com/oluwatobimayowa)
+- Topics - UX Design, Design-Development Handoff, Design Thinking
+- Location - Lagos, Nigeria
+
 #### Eyitayo Alimi
 
 - [@alimieyitayo](https://twitter.com/alimieyitayo)
 - Topics - Technology , Community, DevOps
+- Location - Lagos, Nigeria
+
+#### Alexander Asomba
+
+- [@alexAsomba](https://twitter.com/alexasomba)
+- Topics - Accessibility, Design Thinking, Tech Marketing, React, React Native, Node.js, Python, Building Communities
 - Location - Lagos, Nigeria
 
 #### Wale Ayandiran
@@ -249,6 +339,18 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Laravel, JavaScript, React, React Native, Microservice, Building Communities
 - Location - Lagos, Nigeria
 
+#### Aminu Israel
+
+- [@aminu_israelb](https://twitter.com/Aminu_Israelb)
+- Topics - Data Science, Backend Development
+- Location - Lagos, Nigeria
+
+#### Anayo Oleru
+
+- [@AnayoOleru](https://twitter.com/AnayoOleru)
+- Topics - React-Native, React, Redux, JavaScript, Google-Dialogflow, GithHub, UI/UX Design, Open Source, Building Communities
+- Location - Lagos, Nigeria
+
 #### Eyitemi Egbejule
 
 - [@eEyitemi](https://twitter.com/eEyitemi)
@@ -261,11 +363,23 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - PHP, Laravel, Javascript.
 - Location - Lagos, Nigeria
 
+#### Gospel Lekia
+
+- [@Lekia_G](https://twitter.com/Lekia_G)
+- Topics - PHP, JavaScript, Laravel
+- Location - Lagos, Nigeria
+
 #### Ogbunude Lemuel
 
 - [@lemuelOgbunude](https://twitter.com/lemuelOgbunude)
 - Topics - Android Development, Java, Kotlin, Dart
 - Location - Abuja, Nigeria
+
+#### Adefemi Michael
+
+- [@daycrawller](https://twitter.com/daycrawller)
+- Topics - DevOps, Automation and Cloud
+- Location - Ibadan, Nigeria
 
 #### Ekwuno Obinna
 
@@ -289,6 +403,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 - [@ichtrojan](http://twitter.com/ichtrojan)
 - Topics - Web Development and DevOps
+- Location - Lagos, Nigeria
+
+#### Olaonipekun Olanrewaju
+
+- [@OlaOlaoni](https://twitter.com/OlaOlaoni)
+- Topics - Android, Tensorflow, Machine learning
 - Location - Lagos, Nigeria
 
 #### Prosper Otemuyiwa
@@ -333,17 +453,24 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Image & Video Performance, JavaScript, Frontend Development, Building Communities
 - Location - Lagos, Nigeria
 
-#### Oluwatoi Akindunjoye
+#### Victor Steven
 
-- [@oluwatobimayowa](http://twitter.com/oluwatobimayowa)
-- Topics - UX Design, Design-Development Handoff, Design Thinking
+- [@stevensunflash](https://twitter.com/stevensunflash)
+- Topics - Go, JavaScript, PHP, DevOps
 - Location - Lagos, Nigeria
 
-#### Alexander Asomba
+#### Lade Tawak
 
-- [@alexAsomba](https://twitter.com/alexasomba)
-- Topics - Accessibility, Design Thinking, Tech Marketing, React, React Native, Node.js, Python, Building Communities
+- [@LadeTawak](https://twitter.com/ladetawak)
+- Topics - Service Design, Experience Design, Research in Design, Design Thinking, Design Sprints, Career Growth, Community.
 - Location - Lagos, Nigeria
+
+#### Oluwatobi Shokunbi
+
+- [@just1and0](https://twitter.com/just1and0)
+- Topics - React Native, UI Automation in React Native, React Native to infinity and beyond.
+- Location - Abuja, Nigeria
+
 
 ### Uganda
 
@@ -419,11 +546,29 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - React, D3, Gatsby, Shared Components, Mentorship
 - Location - New York, New York
 
+#### Donovan Brown
+
+- [@donovanbrown](https://twitter.com/donovanbrown)
+- Topics - DevOps, Azure
+- Location - Spring, TX
+
 #### Tia Caldwell
 
-- [@_Tiacaldwell](http://twitter.com/_Tiacaldwell)
+- [@\_Tiacaldwell](http://twitter.com/_Tiacaldwell)
 - Topics - Leadership
 - Location - San Francisco, California
+
+#### Sheldon Callahan
+
+- [@SheldonConcept](https://twitter.com/sheldonconcept)
+- Topics - Salesforce, Devops, Continuous Integration/Delivery, Interactive Prototyping
+- Location - Oakland, CA
+
+### Kara Carrell
+
+- [@KaraAJC](https://twitter.com/KaraAJC)
+- Topics - Ruby/Rails, Pairing, emoji, creative learning
+- Location - Chicago, IL
 
 #### Nyah Check
 
@@ -436,6 +581,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@learnlivelean](http://twitter.com/learnlivelean)
 - Topics - Agile Game development, Serious games for Ed, gamification, Diversity in games, Indie development
 - Location - California
+
+#### Aaron Clark
+
+- [@byAaronC](http://twitter.com/byAaronC)
+- Topics - Diversity, Equity, Inclusion, Criminal Justice Reform, New in Tech, Twilio,
+  /dev/color/,
+- Location - Colorado & California
 
 #### J. Clemonts Junior
 
@@ -451,7 +603,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 #### Chris Crawford
 
-- [@chris_crawford_](https://twitter.com/chris_crawford_)
+- [@chris*crawford*](https://twitter.com/chris_crawford_)
 - Topics - Neurotech, Robotics, Brain-Computer Interfaces
 - Location - Tuscaloosa, Alabama
 
@@ -472,6 +624,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@YolandaMDavis](http://twitter.com/YolandaMDavis)
 - Topics - Tech Leadership, Apache
 - Location - Atlanta, Georgia
+
+#### Pierre DeBois
+
+- [@ZimanaAnalytics](http://twitter.com/ZimanaAnalytics)
+- Topics - R programming (Data Science Models, Google Analytics, Digital Marketing Strategy (Social Media, Digital Ads, Content Marketing), Business Development Strategy
+- Location - Chicago, IN
 
 #### Rhia Dixon
 
@@ -496,6 +654,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@chantalemmanuel](http://twitter.com/chantalemmanuel)
 - Topics - Engineering, Startup/Entrepreneurship
 - Location - Bay Area
+
+#### Wesley Faulkner
+
+- [@wesley83](https://twitter.com/wesley83)
+- Topics - MongoDB, Soft Skills
+- Location - Austin, TX, USA
 
 #### Den Fran
 
@@ -544,6 +708,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Venture capital funding
 - Location - West Hollywood, California
 
+#### Mo Hampton
+
+- [@MoxieHampton](http://twitter.com/MoxieHampton)
+- Topics - Breaking Into Tech, Career Development, JavaScript, Microsoft SharePoint, Front End Development
+- Location - Raleigh, North Carolina
+
 #### Shawntera Hardy
 
 - [@shawnterahardy](http://linkedin.com/in/shawnterahardy)
@@ -560,6 +730,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 - [@rubenharris](http://twitter.com/rubenharris)
 - Topics - Entrepreneurship, Startups
+- Location - San Francisco, California
+
+#### Scott Moss
+
+- [@scotups](https://twitter.com/scotups)
+- Topics - Entrepreneurship, Startups, Node.js, GraphQL, Javascript
 - Location - San Francisco, California
 
 #### Susa Hart
@@ -594,9 +770,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 #### Amal Hussein
 
-- [@nomadtechie](http://twitter.com/nomadtechie )
+- [@nomadtechie](http://twitter.com/nomadtechie)
 - Topics - JavaScript
 - Location - Boston, Massa
+
+#### Ben Ilegbodu
+
+- [@benmvp](http://twitter.com/benmvp)
+- Topics - UI Architecture, JavaScript, React
+- Location - Pittsburg, California
 
 #### J.J. Jackson
 
@@ -644,6 +826,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 - [@brandon_kearns](http://twitter.com/brandon_kearns)
 - Topics - Career Development
+- Location - Atlanta, Georgia
+
+#### Nici Kelly
+
+- [@blackgurltech](http://twitter.com/blackgurltech)
+- Topics - Career Development, Skills Development, HTML, CSS, Javascript, React, Angular, UX/UI, Team Leadership, Freelancing, Entrepreneurship, Personal Branding, Developer Soft Skills
 - Location - Atlanta, Georgia
 
 #### Tariq M. King
@@ -783,6 +971,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Angular
 - Location - Atlanta, Georgia
 
+#### Denae Ford Robinson
+
+- [@denarfordrobin](https://twitter.com/denaefordrobin)
+- Topics: empirical research studying software developers in online communities (e.g., Stack Overflow, GitHub) and how they can support women, newcomers, and the Global South
+- Location: Seattle, WA
+
 #### Brandon T Roberts
 
 - [@brandontroberts](http://twitter.com/brandontroberts)
@@ -795,23 +989,35 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Career Development
 - Location - Atlanta, Georgia
 
+#### Mariah Rucker
+
+- [@PatronusCode](http://twitter.com/wmsbill)
+- Topics - Machine Learning, Entrepreneurship, Finance, Career Development, FinTech, Harry Potter
+- Location - Cleveland, Ohio
+
 #### Carlos Rymer
 
 - [@carlosrymer](https://twitter.com/carlosrymer)
 - Topics - Engineering Management, Leadership, Building on the Cloud, Lean UX, Javascript
 - Location - New York, New York
 
-#### Rodney Sampson
-
-- [@rodneysampson](http://twitter.com/rodneysampson)
-- Topics - Entrepreneurship, venture investment, startup ecosystem building, inclusion & racial equity
-- Location - Atlanta, Georgia
-
 #### Cassandra Salisbury
 
 - [@Cassandraoid](http://twitter.com/Cassandraoid)
 - Topics - Go, Open Source
 - Location - San Francisco, California
+
+#### Aaron K Saunders
+
+- [@twitterhandle](http://twitter.com/aaronksaunders)
+- Topics - Technology, Entrepreneurship Training
+- Location - Washington DC
+
+#### Rodney Sampson
+
+- [@rodneysampson](http://twitter.com/rodneysampson)
+- Topics - Entrepreneurship, venture investment, startup ecosystem building, inclusion & racial equity
+- Location - Atlanta, Georgia
 
 #### Kerry Schrader
 
@@ -831,6 +1037,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Managing engineers
 - Location - Atlanta, Georgia
 
+#### Sharon Steed
+
+- [@sharonsteed](https://twitter.com/sharonsteed)
+- Topics - Empathy
+- Location - USA
+
 #### Kevin Stewart
 
 - [@kstewart](http://twitter.com/kstewart)
@@ -840,7 +1052,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Everette Taylor
 
 - [@Everette](http://twitter.com/Everette)
-- Topics - Entrepreneurship,  Marketing
+- Topics - Entrepreneurship, Marketing
 - Location - Los Angeles, California
 
 #### Richard L Taylor Jr
@@ -860,10 +1072,22 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - VR, Product
 - Location - San Francisco, California
 
+#### Tiffany Thompson
+
+- [@tiffalwaysfly](http://twitter.com/tiffalwaysfly)
+- Topics - Job search for Junior Devs, Coding Bootcamp, My Tech Journey
+- Location - Dallas, Texas
+
 #### Andrew Usher
 
 - Topics - Front-end Web
 - Location - Memphis, Tennessee
+
+#### Brittany Walker
+
+- [@musicalwebdev](http://twitter.com/musicalwebdev)
+- Topics - Web Development, HTML, CSS, JavaScript, Vue.js, Open Source, Side Projects, Transitioning Careers into Tech
+- Location - Washington, DC
 
 #### Tara Walker
 
@@ -882,6 +1106,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@KeshaWillz](http://twitter.com/KeshaWillz)
 - Topics - AWS, Facial recognition, JavaScript
 - Location - Atlanta, Georgia
+
+#### Jem Young
+
+- [@JemYoung](http://twitter.com/JemYoung)
+- Topics - FrontEnd, JavaScript, Code maintenance
+- Location - San Francisco, California
 
 ### Zambia
 
